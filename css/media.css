@@ -38,12 +38,6 @@
 		animation: none !important;
 	}
 
-	nav{
-		height: 110px;
-		line-height: 110px;
-		background-color: #1d1928;
-		position: fixed;
-	}
 	.top_line{
 		display: none;
 	}
@@ -58,7 +52,7 @@
 		color: #fff;
 	}
 	.menu_btn span{
-		top: -40px;
+		top: -45px;
 	}
 	#top_menu{
 		background-color: #1d1928;
