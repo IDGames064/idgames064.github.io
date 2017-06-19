@@ -113,6 +113,7 @@ nav{
 /*PARAMETRS SECTION*/
 .params_s{
 	padding: 10px 0; 
+	background-color: #d4cdec;
 }
 .param_block{
 	text-align: center;
@@ -120,8 +121,9 @@ nav{
 }
 .param_block i{
 	font-size: 70px;
-	color: #e84545;
+	color: #000;
 }
+
 .param_block h3{
 	text-transform: uppercase;
 	font-family: "RalewayBold", sans-serif;
