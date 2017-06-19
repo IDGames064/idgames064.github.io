@@ -41,7 +41,7 @@
 	nav{
 		height: 110px;
 		line-height: 110px;
-		background-color: #2f2740;
+		background-color: #1d1928;
 		position: fixed;
 	}
 	.top_line{
@@ -61,7 +61,7 @@
 		top: -40px;
 	}
 	#top_menu{
-		background-color: #2f2740;
+		background-color: #1d1928;
 		padding: 20px 0;
 	}
 	.menu li{
@@ -103,7 +103,7 @@
 	nav{
 		height: 110px;
 		line-height: 110px;
-		background-color: #2f2740;
+		background-color: #1d1928;
 		position: fixed;
 	}
 	.top_line{
@@ -123,7 +123,7 @@
 		top: -40px;
 	}
 	#top_menu{
-		background-color: #2f2740;
+		background-color: #1d1928;
 		padding: 20px 0;
 	}
 	.menu li{
@@ -173,7 +173,7 @@
 	nav{
 		height: 110px;
 		line-height: 110px;
-		background-color: #2f2740;
+		background-color: #1d1928;
 		position: fixed;
 	}
 	.top_line{
@@ -193,7 +193,7 @@
 		top: -40px;
 	}
 	#top_menu{
-		background-color: #2f2740;
+		background-color: #1d1928;
 		padding: 20px 0;
 	}
 	.menu li{
