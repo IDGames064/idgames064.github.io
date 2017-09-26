@@ -51,7 +51,7 @@ body{
 
 /*HEADER*/
 header{
-	height: 180px;
+	height: 150px;
 	background-image: url('../img/banner.jpg');
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -98,7 +98,7 @@ nav{
 	color: #000;
 	text-align: center;
 	margin-top: 1px;
-	margin-bottom: 100px;
+	margin-bottom: 40px;
 }
 .title_block h1{
 	font-size: 50px;
@@ -117,7 +117,7 @@ nav{
 }
 .param_block{
 	text-align: center;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 .param_block i{
 	font-size: 70px;
