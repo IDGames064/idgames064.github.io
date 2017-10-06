@@ -138,6 +138,9 @@ nav{
 	font-size: 14px;
 }
 
+.image_btn{max-width:49%;
+}
+
 /*WORKS SECTION*/
 .work_block{
 	position: relative;
