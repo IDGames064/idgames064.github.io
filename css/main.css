@@ -7,6 +7,11 @@ body{
 	padding: 0;
 }
 
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
 /*BUTTONS*/
 .my_btn{
 	background-color: #e84545;
@@ -98,7 +103,7 @@ nav{
 	color: #000;
 	text-align: center;
 	margin-top: 1px;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 .title_block h1{
 	font-size: 50px;
@@ -112,7 +117,7 @@ nav{
 
 /*PARAMETRS SECTION*/
 .params_s{
-	padding: 10px 0; 
+	padding: 10px 0px; 
 	background-color: #d4cdec;
 }
 .param_block{
