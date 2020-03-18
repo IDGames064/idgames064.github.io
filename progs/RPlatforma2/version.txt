@@ -1,3 +1,3 @@
-105
-2.05
-RPlatforma_v2.05.bin
+106
+2.06
+RPlatforma_v2.06.bin
