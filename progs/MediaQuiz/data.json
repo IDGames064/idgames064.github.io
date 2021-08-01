@@ -1,9 +1,9 @@
 {
   "versions": {
     "github": {
-      "apk": "https://github.com/IDGames064/MediaQuiz/releases/download/v1.01/MediaQuiz_v1.01.apk",
-      "version": "1.01",
-     "version_code": 2
+      "apk": "https://github.com/IDGames064/MediaQuiz/releases/download/v1.02/MediaQuiz_v1.02.apk",
+      "version": "1.02",
+      "version_code": 3
     }
   }
 } 
